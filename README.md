@@ -6,6 +6,9 @@ Original by SEMO.Pa3x
 Bugs: Sometimes will not actually close when is busy doing attacks.  
 You can end the task in task manager manually if it persists.  
 
+TODO: Save the settings for next launch.  
+I've been trying, though i've failed implementing it for now.  
+
 #### Showcase video:
 
 
