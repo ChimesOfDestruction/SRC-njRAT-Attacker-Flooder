@@ -3,6 +3,9 @@
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
 
+Bugs: Sometimes will not actually close when is busy doing attacks.  
+You can end the task in task manager manually if it persists.  
+
 #### Showcase video:
 
 
