@@ -1,11 +1,15 @@
 # njRAT Attacker & Flooder
 
-##### Update: Add Keylogger Flooder (Spams keylogger form with custom msg) 
+##### Update: Add notifications, make form more nice to look at.
 
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
 
-#### Showcase video:
+#### Screenshot (Latest):
+![bestattaker](https://user-images.githubusercontent.com/127018596/226191297-786b4445-1e36-4959-84ec-70daa9291c3b.PNG)
+
+
+#### Showcase video (Old):
 
 
 
