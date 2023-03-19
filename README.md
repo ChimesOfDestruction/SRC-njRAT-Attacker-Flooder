@@ -5,11 +5,6 @@
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
 
-####  Current GUI:  
-  
-![njattacker](https://user-images.githubusercontent.com/127018596/226159389-09e5f792-2a47-44f9-bc6b-20f72d37c87b.PNG)
-
-  
 #### (OUTDATED!) Showcase video:
 
 
