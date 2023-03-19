@@ -1,6 +1,6 @@
 # njRAT Attacker & Flooder
 
-##### Update: Add Port check (Check if Hosts Port is open/closed) 
+##### Update: Add Keylogger Flooder (Spams keylogger form with custom msg) 
 
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
