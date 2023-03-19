@@ -1,6 +1,6 @@
 # njRAT Attacker & Flooder
 
-##### Update: Add notifications, make form more nice to look at.
+##### Update: Add notifications, make form more nice to look at, tooltips etc.
 
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
