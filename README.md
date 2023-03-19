@@ -1,11 +1,11 @@
 # njRAT Attacker & Flooder
 
-##### Update: Fixed closing form, added nicer GUI and 2 attack methods.  
+##### Update: Add Port check (Check if Hosts Port is open/closed) 
 
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
 
-#### Showcase video:
+#### (OUTDATED!) Showcase video:
 
 
 https://user-images.githubusercontent.com/127018596/226142809-f2ce7e43-0188-4f9a-94ec-e8e0aaa6a81f.mp4
