@@ -5,10 +5,14 @@
 njRAT Attacker modded by ChimesOfDestruction  
 Original by SEMO.Pa3x  
 
-#### (OUTDATED!) Showcase video:
+#### Showcase video:
 
 
-https://user-images.githubusercontent.com/127018596/226142809-f2ce7e43-0188-4f9a-94ec-e8e0aaa6a81f.mp4
+
+https://user-images.githubusercontent.com/127018596/226164197-9dba1382-582a-48f0-baa4-0f115100fe4e.mp4
+
+
+
 ##### Note: Forms title bug is fixed in the version I released. ;)
 
 
